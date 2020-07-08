@@ -5,10 +5,14 @@
 }
 
 .card {
-  display: inline-flex;
+  display: inline-block;
 }
 
 .cards-row {
+}
+
+.card-row {
+  
 }
 
 .sidebar {

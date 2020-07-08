@@ -1,5 +1,5 @@
 import React from "react";
 
-export default function CardsRow({ children }) {
-  return <div className="cards-row">{children}</div>;
+export default function RowInCard({ children }) {
+  return <div className="card-row">{children}</div>;
 }
