@@ -23,12 +23,12 @@ function App() {
   return (
     <>
       <SideBar>
-        <div>Hide menu</div>
+        <div>Always there-Hide menu</div>
 
-        <div>Modul 1</div>
-        <div>Modul 2</div>
+        <div>Loop Modul 1</div>
+        <div>Loop Modul 2</div>
 
-        <div>Logout</div>
+        <div>Always there-Logout</div>
       </SideBar>
       <AppContainer>
         <CardsRow>

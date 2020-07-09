@@ -15,6 +15,10 @@
   
 }
 
+.card-element {
+  display:inline-block;
+}
+
 .sidebar {
   border: 1px solid black;
 }
